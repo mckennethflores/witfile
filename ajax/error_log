@@ -1,0 +1,140 @@
+[01-Jan-2022 21:25:00 America/Lima] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home2/groupglobalf/public_html/sistemacrm/ajax/usuario.php:48
+Stack trace:
+#0 {main}
+  thrown in /home2/groupglobalf/public_html/sistemacrm/ajax/usuario.php on line 48
+[02-Jan-2022 11:43:51 America/Lima] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home2/groupglobalf/public_html/sistemacrm/ajax/usuario.php:48
+Stack trace:
+#0 {main}
+  thrown in /home2/groupglobalf/public_html/sistemacrm/ajax/usuario.php on line 48
+[02-Jan-2022 11:44:50 America/Lima] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home2/groupglobalf/public_html/sistemacrm/ajax/usuario.php:48
+Stack trace:
+#0 {main}
+  thrown in /home2/groupglobalf/public_html/sistemacrm/ajax/usuario.php on line 48
+[06-Jan-2022 20:18:45 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined method Perfil::verificar() in /home2/groupglobalf/public_html/sistemacrm/ajax/perfil.php:33
+Stack trace:
+#0 {main}
+  thrown in /home2/groupglobalf/public_html/sistemacrm/ajax/perfil.php on line 33
+[06-Jan-2022 21:12:16 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined method Perfil::verificar() in /home2/groupglobalf/public_html/sistemacrm/ajax/perfil.php:33
+Stack trace:
+#0 {main}
+  thrown in /home2/groupglobalf/public_html/sistemacrm/ajax/perfil.php on line 33
+[21-Feb-2022 17:19:54 America/Lima] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home2/groupglobalf/public_html/crmbeta/config/Conexion.php:29
+Stack trace:
+#0 /home2/groupglobalf/public_html/crmbeta/modelos/Reuniones.php(32): ejecutarConsultaSimpleFila('SELECT valor FR...')
+#1 /home2/groupglobalf/public_html/crmbeta/ajax/reuniones.php(50): Reuniones->editar('65', '2DA REUNI\xC3\x93N', '', '185', 'SE HIZO REUNION...', '', '', '')
+#2 {main}
+  thrown in /home2/groupglobalf/public_html/crmbeta/config/Conexion.php on line 29
+[21-Feb-2022 17:20:08 America/Lima] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home2/groupglobalf/public_html/crmbeta/config/Conexion.php:29
+Stack trace:
+#0 /home2/groupglobalf/public_html/crmbeta/modelos/Reuniones.php(18): ejecutarConsultaSimpleFila('SELECT valor FR...')
+#1 /home2/groupglobalf/public_html/crmbeta/ajax/reuniones.php(46): Reuniones->insertar('2DA REUNI\xC3\x93N', '', '185', '', '', '', '', '9')
+#2 {main}
+  thrown in /home2/groupglobalf/public_html/crmbeta/config/Conexion.php on line 29
+[21-Feb-2022 17:33:15 America/Lima] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home2/groupglobalf/public_html/crmbeta/config/Conexion.php:29
+Stack trace:
+#0 /home2/groupglobalf/public_html/crmbeta/modelos/Reuniones.php(32): ejecutarConsultaSimpleFila('SELECT valor FR...')
+#1 /home2/groupglobalf/public_html/crmbeta/ajax/reuniones.php(50): Reuniones->editar('68', 'EVALUA PROPUEST...', '', '189', '13/02 SE ENVIO ...', '', '', '')
+#2 {main}
+  thrown in /home2/groupglobalf/public_html/crmbeta/config/Conexion.php on line 29
+[14-Mar-2022 16:35:02 America/Lima] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home2/groupglobalf/public_html/crmbeta/config/Conexion.php:29
+Stack trace:
+#0 /home2/groupglobalf/public_html/crmbeta/modelos/Reuniones.php(18): ejecutarConsultaSimpleFila('SELECT valor FR...')
+#1 /home2/groupglobalf/public_html/crmbeta/ajax/reuniones.php(46): Reuniones->insertar('EVALUA PROPUEST...', '', '222', 'EVALUAR\xC3\x81 LA PR...', '2022-03-18', '', '', '9')
+#2 {main}
+  thrown in /home2/groupglobalf/public_html/crmbeta/config/Conexion.php on line 29
+[14-Mar-2022 16:40:15 America/Lima] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home2/groupglobalf/public_html/crmbeta/config/Conexion.php:29
+Stack trace:
+#0 /home2/groupglobalf/public_html/crmbeta/modelos/Reuniones.php(18): ejecutarConsultaSimpleFila('SELECT valor FR...')
+#1 /home2/groupglobalf/public_html/crmbeta/ajax/reuniones.php(46): Reuniones->insertar('SE AGENDA 1RA R...', '', '224', 'SE LE COTIZA UN...', '', '', '', '9')
+#2 {main}
+  thrown in /home2/groupglobalf/public_html/crmbeta/config/Conexion.php on line 29
+[14-Mar-2022 18:06:55 America/Lima] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home2/groupglobalf/public_html/crmbeta/config/Conexion.php:29
+Stack trace:
+#0 /home2/groupglobalf/public_html/crmbeta/modelos/Reuniones.php(32): ejecutarConsultaSimpleFila('SELECT valor FR...')
+#1 /home2/groupglobalf/public_html/crmbeta/ajax/reuniones.php(50): Reuniones->editar('98', 'COORDINAR X WAS...', '', '229', 'CLIENTE LE ESTA...', '', '', '')
+#2 {main}
+  thrown in /home2/groupglobalf/public_html/crmbeta/config/Conexion.php on line 29
+[01-Apr-2022 10:13:19 America/Lima] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home2/groupglobalf/public_html/crmbeta/config/Conexion.php:29
+Stack trace:
+#0 /home2/groupglobalf/public_html/crmbeta/modelos/Reuniones.php(32): ejecutarConsultaSimpleFila('SELECT valor FR...')
+#1 /home2/groupglobalf/public_html/crmbeta/ajax/reuniones.php(50): Reuniones->editar('100', 'Seguimiento', '', '230', 'Quiere propuest...', '2022-03-11', '', '')
+#2 {main}
+  thrown in /home2/groupglobalf/public_html/crmbeta/config/Conexion.php on line 29
+[01-Apr-2022 10:17:33 America/Lima] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home2/groupglobalf/public_html/crmbeta/config/Conexion.php:29
+Stack trace:
+#0 /home2/groupglobalf/public_html/crmbeta/modelos/Reuniones.php(32): ejecutarConsultaSimpleFila('SELECT valor FR...')
+#1 /home2/groupglobalf/public_html/crmbeta/ajax/reuniones.php(50): Reuniones->editar('121', 'Seguimiento | r...', '', '253', 'Ya tiene una po...', '2022-03-23', '', '')
+#2 {main}
+  thrown in /home2/groupglobalf/public_html/crmbeta/config/Conexion.php on line 29
+[01-Apr-2022 10:22:51 America/Lima] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home2/groupglobalf/public_html/crmbeta/config/Conexion.php:29
+Stack trace:
+#0 /home2/groupglobalf/public_html/crmbeta/modelos/Reuniones.php(32): ejecutarConsultaSimpleFila('SELECT valor FR...')
+#1 /home2/groupglobalf/public_html/crmbeta/ajax/reuniones.php(50): Reuniones->editar('90', 'Seguimiento', '', '215', 'Esta interesado...', '2022-02-28', '', '')
+#2 {main}
+  thrown in /home2/groupglobalf/public_html/crmbeta/config/Conexion.php on line 29
+[08-Apr-2022 17:41:20 America/Lima] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home2/groupglobalf/public_html/crmbeta/config/Conexion.php:29
+Stack trace:
+#0 /home2/groupglobalf/public_html/crmbeta/modelos/Reuniones.php(32): ejecutarConsultaSimpleFila('SELECT valor FR...')
+#1 /home2/groupglobalf/public_html/crmbeta/ajax/reuniones.php(50): Reuniones->editar('148', '1RA REUNI\xC3\x93N', '', '225', 'SE REPROGRAMA R...', '', '', '')
+#2 {main}
+  thrown in /home2/groupglobalf/public_html/crmbeta/config/Conexion.php on line 29
+[08-Apr-2022 17:41:40 America/Lima] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home2/groupglobalf/public_html/crmbeta/config/Conexion.php:29
+Stack trace:
+#0 /home2/groupglobalf/public_html/crmbeta/modelos/Reuniones.php(32): ejecutarConsultaSimpleFila('SELECT valor FR...')
+#1 /home2/groupglobalf/public_html/crmbeta/ajax/reuniones.php(50): Reuniones->editar('148', '1RA REUNI\xC3\x93N', '', '225', 'SE REPROGRAMA R...', '', '', '')
+#2 {main}
+  thrown in /home2/groupglobalf/public_html/crmbeta/config/Conexion.php on line 29
+[03-May-2022 18:27:57 America/Lima] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home2/groupglobalf/public_html/crmbeta/config/Conexion.php:29
+Stack trace:
+#0 /home2/groupglobalf/public_html/crmbeta/modelos/Reuniones.php(32): ejecutarConsultaSimpleFila('SELECT valor FR...')
+#1 /home2/groupglobalf/public_html/crmbeta/ajax/reuniones.php(50): Reuniones->editar('168', 'SE LE ENVIAR\xC3\x81 ...', '', '283', 'CLIENTE SE ENCU...', '', '', '')
+#2 {main}
+  thrown in /home2/groupglobalf/public_html/crmbeta/config/Conexion.php on line 29
+[03-May-2022 18:28:39 America/Lima] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home2/groupglobalf/public_html/crmbeta/config/Conexion.php:29
+Stack trace:
+#0 /home2/groupglobalf/public_html/crmbeta/modelos/Reuniones.php(18): ejecutarConsultaSimpleFila('SELECT valor FR...')
+#1 /home2/groupglobalf/public_html/crmbeta/ajax/reuniones.php(46): Reuniones->insertar('SE REALIZA PROP...', '', '283', '', '', '', '', '9')
+#2 {main}
+  thrown in /home2/groupglobalf/public_html/crmbeta/config/Conexion.php on line 29
+[03-May-2022 18:30:12 America/Lima] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home2/groupglobalf/public_html/crmbeta/config/Conexion.php:29
+Stack trace:
+#0 /home2/groupglobalf/public_html/crmbeta/modelos/Reuniones.php(32): ejecutarConsultaSimpleFila('SELECT valor FR...')
+#1 /home2/groupglobalf/public_html/crmbeta/ajax/reuniones.php(50): Reuniones->editar('167', '1RA REUNI\xC3\x93N PR...', '', '281', 'TIENE ENDOSADO ...', '', '', '')
+#2 {main}
+  thrown in /home2/groupglobalf/public_html/crmbeta/config/Conexion.php on line 29
+[04-May-2022 16:51:12 America/Lima] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpv7oSjC' to '../files/reuniones/1651701072.pdf' in /home2/groupglobalf/public_html/crmbeta/ajax/reuniones.php on line 34
+[04-May-2022 16:58:01 America/Lima] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpJLTabl' to '../files/reuniones/1651701481.pdf' in /home2/groupglobalf/public_html/crmbeta/ajax/reuniones.php on line 34
+[04-May-2022 17:00:43 America/Lima] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpFUmiYC' to '../files/reuniones/1651701644.pdf' in /home2/groupglobalf/public_html/crmbeta/ajax/reuniones.php on line 34
+[04-May-2022 17:05:54 America/Lima] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpcghDSu' to '../files/reuniones/1651701955.pdf' in /home2/groupglobalf/public_html/crmbeta/ajax/reuniones.php on line 34
+[05-May-2022 12:14:08 America/Lima] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpqXjtKR' to '../files/reuniones/1651770848.pdf' in /home2/groupglobalf/public_html/crmbeta/ajax/reuniones.php on line 34
+[05-May-2022 12:27:44 America/Lima] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpY9sUIl' to '../files/reuniones/1651771665.pdf' in /home2/groupglobalf/public_html/crmbeta/ajax/reuniones.php on line 34
+[11-May-2022 17:41:36 America/Lima] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home2/groupglobalf/public_html/crmbeta/config/Conexion.php:29
+Stack trace:
+#0 /home2/groupglobalf/public_html/crmbeta/modelos/Reuniones.php(32): ejecutarConsultaSimpleFila('SELECT valor FR...')
+#1 /home2/groupglobalf/public_html/crmbeta/ajax/reuniones.php(50): Reuniones->editar('179', 'Seguimiento', '3579', '286', 'El cliente pasa...', '2022-05-09', '', '1652308896.pdf')
+#2 {main}
+  thrown in /home2/groupglobalf/public_html/crmbeta/config/Conexion.php on line 29
+[07-Jun-2022 17:00:16 America/Lima] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home2/groupglobalf/public_html/crmbeta/config/Conexion.php:29
+Stack trace:
+#0 /home2/groupglobalf/public_html/crmbeta/modelos/Reuniones.php(32): ejecutarConsultaSimpleFila('SELECT valor FR...')
+#1 /home2/groupglobalf/public_html/crmbeta/ajax/reuniones.php(50): Reuniones->editar('206', 'Seguimiento', '669', '238', 'Bmi ya aprob\xC3\xB3 ...', '2022-06-01', '', '')
+#2 {main}
+  thrown in /home2/groupglobalf/public_html/crmbeta/config/Conexion.php on line 29
+[07-Jun-2022 17:13:44 America/Lima] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home2/groupglobalf/public_html/crmbeta/config/Conexion.php:29
+Stack trace:
+#0 /home2/groupglobalf/public_html/crmbeta/modelos/Reuniones.php(32): ejecutarConsultaSimpleFila('SELECT valor FR...')
+#1 /home2/groupglobalf/public_html/crmbeta/ajax/reuniones.php(50): Reuniones->editar('220', 'dfdf', '2000', '236', 'dfdfd', '', '', '')
+#2 {main}
+  thrown in /home2/groupglobalf/public_html/crmbeta/config/Conexion.php on line 29
+[07-Jun-2022 17:21:04 America/Lima] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home2/groupglobalf/public_html/crmbeta/config/Conexion.php:29
+Stack trace:
+#0 /home2/groupglobalf/public_html/crmbeta/modelos/Reuniones.php(32): ejecutarConsultaSimpleFila('SELECT valor FR...')
+#1 /home2/groupglobalf/public_html/crmbeta/ajax/reuniones.php(50): Reuniones->editar('217', 'Seguimiento', '3579', '286', 'Se logr\xC3\xB3 valid...', '2022-05-30', '', '')
+#2 {main}
+  thrown in /home2/groupglobalf/public_html/crmbeta/config/Conexion.php on line 29
+[12-Aug-2022 15:30:42 America/Lima] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home2/groupglobalf/public_html/crmbeta/config/Conexion.php:29
+Stack trace:
+#0 /home2/groupglobalf/public_html/crmbeta/modelos/Reuniones.php(32): ejecutarConsultaSimpleFila('SELECT valor FR...')
+#1 /home2/groupglobalf/public_html/crmbeta/ajax/reuniones.php(64): Reuniones->editar('235', 'seguro de salud...', '', '334', 'ya cuenta poliz...', '2022-08-12', '', '')
+#2 {main}
+  thrown in /home2/groupglobalf/public_html/crmbeta/config/Conexion.php on line 29
